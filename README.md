@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wungthingkashungnao" alt="wungthingkashungnao" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/wungthing" target="blank"><img src="https://img.shields.io/twitter/follow/wungthing?logo=twitter&style=for-the-badge" alt="wungthing" /></a> </p>
+<p align="left"> <a href="https://twitter.com/wungthing_kashu" target="blank"><img src="https://img.shields.io/twitter/follow/wungthing?logo=twitter&style=for-the-badge" alt="wungthing" /></a> </p>
 
 - 💬 Ask me about **react.js, next.js, node.js, express.js, mongodb**
 
